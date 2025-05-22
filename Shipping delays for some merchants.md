@@ -1,1 +1,0 @@
-A customer is having trouble finding the Export button in a new user interface (UI) because the current guide they are following is still based on the old UI layout, not the new one.
