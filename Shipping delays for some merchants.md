@@ -1,1 +1,0 @@
-I don't see a customer ticket provided. Could you please provide the ticket subject and description so I can analyze the issue and suggest updates to the user guide?
